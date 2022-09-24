@@ -32,7 +32,7 @@ main {
     transform: translate(-50%, -50%);
     overflow: hidden; /* Esconde o que está fora da borda*/
     background-color: white;
-    width: 250px;
+    width: 265px;
     height: 500px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.452);
@@ -51,4 +51,13 @@ main {
 #formulario {
     display: block;
     padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 0.8em;
 }
